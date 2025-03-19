@@ -20,9 +20,9 @@
 
 - ### Agent
 
-  - #### [ToolAgent]()
+  - #### [ToolAgent](/doc/agent/toolAgent.md)
 
-  - #### [ConsoleToolAgent]()
+  - #### [ConsoleToolAgent](/doc/agent/consoleToolAgent.md)
 
 - ### Examples
 
